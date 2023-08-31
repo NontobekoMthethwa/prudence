@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  font-family: "sans-serif;
+  color: navy;
+}
+
+h3 {
+  color: blue;
+}
+
+p{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: green;
+}
